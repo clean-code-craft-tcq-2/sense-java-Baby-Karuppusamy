@@ -1,3 +1,5 @@
+package statisticker;
+
 class EmailAlert implements IAlerter{
     boolean emailSent = false;
     @Override
