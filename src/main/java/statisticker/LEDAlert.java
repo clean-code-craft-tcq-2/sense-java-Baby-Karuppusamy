@@ -1,3 +1,5 @@
+package statisticker;
+
 class LEDAlert implements IAlerter{
     boolean ledGlows = false;
     @Override
